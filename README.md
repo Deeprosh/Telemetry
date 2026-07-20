@@ -7,6 +7,8 @@ In this project, i have choosen open source project called OpenTelemetry.
 ## Overview and workflow of OpenTelemetry  
 OpenTelemetry (OTel) is an open-source, vendor-neutral framework designed to standardize the collection and management of telemetry data across distributed systems. It emerged from the merger of OpenTracing and OpenCensus projects in 2019 and is now a critical component of modern observability.  
 ## Architecture of the services 
+<img width="599" height="425" alt="image" src="https://github.com/user-attachments/assets/568be649-f8f6-46cf-85cf-f9110ecd8a6a" />
+
 ## Installation and pre-requisites  
 - Create and AWS Account  
 - Create an IAM user  
