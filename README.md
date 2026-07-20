@@ -1,4 +1,4 @@
-# End to End DevOps Implementation on an E-Commerce project (OpenTelemetry)
+# End to End DevOps Implementation on an E-Commerce project open-sourced by OpenTelemetry
 End to End devops implementation  
 This is real time E-commerce project which is an microservices architecture.  
 Through this we can learn how to build the microservices,deploy the microservices, and managing the entire lifecycle of microservices.  
