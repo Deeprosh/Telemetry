@@ -5,7 +5,7 @@ Through this we can learn how to build the microservices,deploy the microservice
 Microservices are written in various languages.  
 In this project, i have choosen open source project called OpenTelemetry.  
 ## Overview and workflow of OpenTelemetry  
-OpenTelemetry (OTel) is an open-source, vendor-neutral framework designed to standardize the collection and management of telemetry data across distributed systems. It emerged from the merger of OpenTracing and OpenCensus projects in 2019 and is now a critical component of modern observability.  
+OpenTelemetry (OTel) is an open-source, vendor-neutral framework designed to standardize the collection and management of telemetry data across distributed systems. It is micro multi-service application.
 ## Architecture of the services 
 <img width="599" height="425" alt="image" src="https://github.com/user-attachments/assets/568be649-f8f6-46cf-85cf-f9110ecd8a6a" />  
 <img width="596" height="68" alt="image" src="https://github.com/user-attachments/assets/1c434d7c-4e84-4a9b-a532-816cfd58f0c7" />
