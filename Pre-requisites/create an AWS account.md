@@ -1,8 +1,5 @@
 # **AWS Account Creation**
 
-## **Introduction**
-Creating an AWS account is the first step toward learning cloud computing. 
-
 ---
 
 ## **Step-by-Step AWS Account Creation**
