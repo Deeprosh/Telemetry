@@ -10,6 +10,8 @@ Reverse proxy is to verify and handle the custom login before forwarding actual 
 - Email service is get a notification for the order which we made.
 - Currency service is used to select the currency based on your location.  
 - Payment service is used to buy the product once everything has been ok.
-- Recommendation service is used to get recommendation about the products.
+- Recommendation service is used to get recommendations about the products based on what we search till then.
 - Fraud detection service is used to provide MFA or more secutity.
-- Flag d or feature d is used to enable or disbale some settings according to the customer location.  
+- Flag d or feature d is used to enable or disbale some settings according to the customer location.
+- Ad service is used to run the ads on this project based on the customer context.  
+- Each service is written/developed in different lanaguages.  
